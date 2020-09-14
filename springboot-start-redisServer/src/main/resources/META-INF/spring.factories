@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.ciwei.redisserver.mybatiscache.config.RedisConfiguration,\
+com.ciwei.redisserver.RedisCacheConfiguration

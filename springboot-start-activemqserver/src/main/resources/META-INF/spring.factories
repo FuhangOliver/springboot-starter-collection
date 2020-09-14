@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.ciwei.activemq.ActiveMqConfiguration,\
+com.ciwei.activemq.config.JmsConfig
