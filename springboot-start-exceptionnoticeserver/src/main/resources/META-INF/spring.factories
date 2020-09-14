@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.ciwei.exception.notice.config.ExceptionNoticeAutoConfiguration
